@@ -458,7 +458,7 @@ body{
         width: 96%;
     }
     .menu nav ul li{
-        margin-left: 3px;
+        margin-left: 2px;
         margin-right: 0px;
     }
     .menu nav ul li a{
@@ -595,6 +595,7 @@ body{
     .old-memory h1{
         margin-left: 80px;
         margin-bottom: 30px;
+        width: 186px;
     }
     .ol-flex{
         display: inline;
