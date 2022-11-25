@@ -1,0 +1,654 @@
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    background: #041927;
+
+}
+
+.po-fixed{
+    position: fixed;
+    border-bottom: 2px solid gold;
+}
+.po-fixed{
+    width: 100%;
+}
+.sear{
+    font-size: 21px;
+    margin-left: -242px;
+    color: #c19f00;
+}
+.top-menu{
+    display: inline-flex;
+    width: 100%;
+    height: 60px;
+    margin-left: 0px;
+    background: hotpink;
+}
+.top-logo{
+    width: 130px;
+    height: 50px;
+    padding: 5px;
+    margin-left: 300px;
+}
+.top-logo img{
+    width: 100%;
+    height: 100%;
+}
+.serch{  
+    margin-left: 30px;
+    width: 300px;
+    height: 60px;
+}
+.serch input{
+    font-size: 20px;
+    padding: 10px;
+    width: 200px;
+    outline: none;
+    border: none;
+    border-radius: 22px;
+    padding-left: 42px;
+    margin-top: 5px;
+}
+.manubar{
+    width: 100%;
+    height: 40px;
+    display: inline-flex;
+    background: #1b052b;
+}
+.logo{
+    height: 36px;
+    width: 50px;
+    margin-left: 60px;
+
+}
+.logo img{
+    width: 100%;
+    height: 100%;
+}
+.menu{}
+.menu nav{
+    margin-left: 250px;
+}
+.menu nav ul{
+    margin-top: 10px;
+}
+.menu nav ul li{
+    display: inline;
+    margin-right: 15px;
+}
+.menu nav ul li a{
+    text-decoration: none;
+    background: rgba(0, 0, 0, 0.26);
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    border-radius: 5px;
+    border-top-right-radius: 17px;
+    border-bottom-left-radius: 17px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.menu nav ul li a:hover{
+    color: #041927;
+    background: white;
+    
+}
+.bx-slider{
+    width: 100%;
+    height: 520px;
+}
+.slider{
+    width: 100%;
+}
+.sl-one{
+    width: 100%; 
+}
+.bannercontent-zero{
+    width: 100%;
+    height: 50px;
+    background: url(../images/world\ cup.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 400px;
+}
+.bannercontent-one{
+    width: 100%;
+    height: 50px;
+    background: url(../images/copa02.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 400px;
+}
+.bannercontent-two{
+    width: 100%;
+    height: 50px;
+    background: url(../images/copa03.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 400px;
+}.bannercontent-three{
+    width: 100%;
+    height: 50px;
+    background: url(../images/copa04.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 400px;
+}.bannercontent-four{
+    width: 100%;
+    height: 50px;
+    background: url(../images/copa.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 400px;
+}
+.bcon button{
+    text-align: center;
+    width: 120px;
+    padding: 4px;
+    font-size: 20px;
+    background: cornflowerblue;
+    color: blanchedalmond;
+    border: none;
+    border-radius: 10px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.bcon button:hover{
+    background: rgb(211, 29, 29);
+    color: rgb(29, 230, 79);
+    
+}
+.btn{
+    margin-left: 400px;
+}
+.our-team{
+    width: 100%;
+    margin-top: 50px;
+    height: 1850px;
+
+}
+.head-couch{
+    display: inline-flex;
+}
+.he-img{
+    width: 400px;
+    height: 370px;
+    margin-left: 70px;
+    border-radius: 10px;
+    box-shadow: -2px -2px 2px black;
+    margin-bottom: 50px;
+}
+.he-img img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+
+}
+
+.he-img:hover{
+    box-shadow:-2px -2px 8px black, 2px 2px 8px black;
+}
+.he-contant{
+    width: 360px;
+    height: 330px;
+    margin-left: 70px;
+    background: whitesmoke;
+    box-shadow: 2px 2px 8px black;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+
+}
+.he-contant:hover{
+    box-shadow: -2px -2px 8px black;
+}
+.he-contant h1{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+    margin-bottom: 12px;
+}
+.he-contant p{
+    font-family: 'El Messiri', sans-serif;
+    margin-top: 8px;
+    text-align: justify;
+}
+.team{
+    display: inline-flex;
+    margin-bottom: 20px;
+}
+.players{
+    width: 220px;
+    height: 320px;
+    background: whitesmoke;
+    box-shadow: 2px 2px 3px black;
+    margin-left: 24px;
+    border-radius: 15px;
+}
+.players:hover{
+    width: 221px;
+    height: 321px;
+    box-shadow: 2px 2px 5px black, -2px -2px 5px black;
+}
+.players img{
+    width: 100%;
+    height: 240px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.players h1{
+    font-family: 'Eczar', serif;
+    text-align: center;
+}
+.players h2{
+    font-family: 'Gentium Book Basic', serif;
+    color: #000000d1;
+    text-align: center;
+}
+.bannertwo{
+    width: 100%;
+    height:370px ;
+}
+.btwo{
+    width: 100%;
+    height: 300px;
+    margin-bottom: 50px;
+}
+.btwo:hover{
+
+    border: 4px solid gold;
+    width: 100%;
+    height: 299px;
+}
+.btwo img{
+    width: 100%;
+    height: 100%;
+}
+.old-memory{
+    margin-bottom: 30px;
+    width: 100%;
+    height: 330px;
+}
+.old-memory h1{
+    font-size: 30px;
+    border: 2px solid gold;
+    padding: 5px;
+    width: 187px;
+    margin-left: 380px;
+    margin-bottom: 20px;
+}
+.ol-flex{
+    display: inline-flex;
+}
+.ol-memo{
+    width: 190px;
+    height: 260px;
+    margin-left: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px black, -2px -2px 5px black;
+
+}
+.ol-memo:hover{
+    width: 192px;
+    height: 262px;
+    box-shadow: 1px 1px 3px black, -1px -1px 4px black;
+
+}
+.ol-memo img{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px black, -2px -2px 5px black;
+}
+.move-ol{
+    margin-left: 80px;
+}
+.fan-galary{
+    width: 100%;
+    height: 350px;
+    margin-bottom: 50px;
+}
+.move-fans{
+    margin-left: 50px;
+}
+
+.fan-galary h1{
+    font-size: 30px;
+    border: 2px solid gold;
+    padding: 5px;
+    width: 187px;
+    margin-left: 380px;
+    margin-bottom: 65px;
+}
+.youmap{
+    display: inline-flex;
+    width: 100%;
+    height: 334px;
+}
+.youtube{
+    width: 450px;
+    height: 330px;
+    margin-left: 25px;
+}
+.youtube iframe{
+    width: 100%;
+    height: 100%;
+}
+.map{
+    width: 450px;
+    height: 330px;
+    margin-left: 40px;
+}
+.map iframe{
+    width: 100%;
+    height: 100%;
+}
+.youtube:hover{
+    border: 2px solid gold;
+}
+.map:hover{
+    border: 2px solid gold;
+}
+
+
+
+.footer{
+    width: 100%;
+    height: 60px;
+    background: whitesmoke;
+}
+#fans{
+    width: 200px;
+    height: 200px;
+    margin-left: 38px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px black, -2px -2px 5px black;
+}
+#fans img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px black, -2px -2px 5px black;
+}
+#fans:hover{
+    rotate: 360deg;
+    transition: 2s;
+}
+.design-credit{
+    width: 200px;
+    height: 48px;
+    background: whitesmoke;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 9px;
+    margin-left: 398px;
+}
+.design-credit p{
+    margin-top: 2px;
+    font-family: 'Red Hat Display', sans-serif;
+    width: 200px;
+
+}
+.design-credit p a{
+    text-decoration: none;
+    color: #5c1687;
+}
+#design-right-move{
+    margin-top: 6px;
+}
+
+
+@media only screen and (min-width:320px) and (max-width:425px){
+    h1,h2,h3,h4,h5,h6,p{
+        margin: 0;
+        padding: 0;
+    }
+    body{}
+    .header{
+        height: 82px;
+    }
+    .top-menu{
+        width: 100%;
+        height: 46px;
+    }
+    .top-logo{
+        margin-left: 0px;
+        width: 100px;
+        height: 36px;
+    }
+    .top-logo img{}
+    .serch{
+        width: 207px;
+        margin-left: 35px;
+    }
+    .serch input{
+        font-size: 14px;
+        width: 165px;
+        padding-left: 28px;
+    }
+    .sear{
+        margin-left: -195px;
+        font-size: 14px;
+    }
+    .manubar{
+        width: 100%;
+        height: 34px;
+    }
+    .logo{
+        margin-left: 0px;
+        display: none;
+    }
+    .logo img{}
+    .menu{
+        width: 99%;
+    }
+    .menu nav{
+        margin-left: 0px;
+        width: 100%;
+    }
+    .menu nav ul{
+        padding-left: 0px;
+    }
+    .po-fixed {
+        width: 96%;
+    }
+    .menu nav ul li{
+        margin-left: 3px;
+        margin-right: 0px;
+    }
+    .menu nav ul li a{
+        font-size: 12px;
+        padding: 2px;
+    }
+    .menu nav ul li a:hover{
+        border-radius: 4px;
+    }
+    .bx-slider{
+        height: 230px;
+    }
+    .slider{}
+    .sl-one{}
+    .bannercontent-zero{
+        width: 100%;
+        height: 30px;
+        background: url(../images/world\ cup.jpg);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        padding-top: 170px;
+    }
+    .bannercontent-one{
+        width: 100%;
+        height: 30px;
+        background: url(../images/copa02.webp);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        padding-top:170px;
+    }
+    .bannercontent-two{
+        width: 100%;
+        height: 30px;
+        background: url(../images/copa03.jpg);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        padding-top:170px;
+    }.bannercontent-three{
+        width: 100%;
+        height: 30px;
+        background: url(../images/copa04.jpg);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        padding-top:170px;
+    }.bannercontent-four{
+        width: 100%;
+        height: 30px;
+        background: url(../images/copa.webp);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        padding-top:170px;
+    }
+    .bcon button{
+        width: 70px;
+        text-align: center;
+        padding: 3px;
+        font-size: 14px;
+        background: cornflowerblue;
+        color: blanchedalmond;
+        border: none;
+        border-radius: 6px;
+        font-family: 'Source Sans Pro', sans-serif;
+    }
+    .bcon button:hover{
+        background: rgb(211, 29, 29);
+        color: rgb(29, 230, 79);
+        
+    }
+    .btn {
+        margin-left: 110px;
+    }
+    .our-team{
+        height: 6888px;
+    }
+    .head-couch{
+        display: inline;
+    }
+    .he-img{
+        width: 300px;
+        height: 310px;
+        margin-left: 27px;
+    }
+    .he-img img{}
+    .he-contant{
+        width: 260px;
+        margin-left: 26px;
+        height: 350px;
+    }
+    .he-contant h1{}
+    .he-contant p{}
+    .team{
+        display: inline;
+        margin-bottom: 20px;
+    }
+    .players{
+        margin-bottom: 30px;
+        width: 270px;
+        height: 350px;
+        margin-left: 40px;
+    }
+    .players:hover{
+        width: 271px;
+        height: 351px;
+        box-shadow: 2px 2px 5px black, -2px -2px 5px black;
+    }
+    .players img{
+        height: 270px;
+    }
+    .players h1{}
+    .players h2{}
+    .bannertwo{
+        height: 240px;
+    }
+    .btwo{
+        width: 100%;
+        height: 180px;
+    }
+    .btwo:hover{
+
+        border: 4px solid gold;
+        width: 98%;
+        height: 176px;
+    }
+    .btwo img{
+        
+    }
+    .old-memory{
+        height: 1240px;
+    }
+
+    .fan-galary{
+        height: 1024px;
+    }
+    .old-memory h1{
+        margin-left: 80px;
+        margin-bottom: 30px;
+    }
+    .ol-flex{
+        display: inline;
+        margin-left: 0px;
+    }
+    .ol-memo{
+        margin-bottom: 40px;
+        margin-left: 30px;
+        width: 290px;
+    }
+    .ol-memo:hover{
+        width: 291px;
+        box-shadow: 1px 1px 3px black, -1px -1px 4px black;
+    
+    }
+    .ol-memo img{}
+    .move-ol {
+        margin-left: px;
+    }
+
+    .bannertwo-copy{
+        height: 240px;
+    }
+    #fans{
+        margin-left: 76px
+    }
+    #fans img{
+
+    }
+    #fans:hover{
+
+    }
+    .youmap{
+        display: inline;
+    }
+    .youtube{
+        margin-left: 16px;
+        width: 320px;
+        height: 200px;
+        margin-bottom: 25px;
+    }
+    .youtube iframe{}
+    .map{
+        margin-left: 16px;
+        width: 320px;
+        height: 200px;
+        margin-bottom: 10px;
+    }
+    .map iframe{}
+    .footer{}
+
+    .design-credit{
+        margin-left: 74px;
+        margin-top: 0px;
+    }
+    
+}
